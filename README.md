@@ -36,3 +36,6 @@ The standard process for implementing text-to-speech is:
 Capture Input Text: JavaScript retrieves the value from the <textarea> field.
 Use Web Speech API: The speechSynthesis interface of the Web Speech API is used to generate speech.
 Play the Speech Output: The selected voice reads the text aloud.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/6236cb4b-e498-42df-b638-213c990449ee)
